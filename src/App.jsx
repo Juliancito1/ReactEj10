@@ -10,6 +10,9 @@ function App() {
       <section className='paginaPrincipal'>
       <Formulario></Formulario>
       </section>
+      <footer className='bg-dark text-light py-4 text-center'>
+        <p>&copy; Todos los Derechos Reservados</p>
+      </footer>
     </>
   )
 }
