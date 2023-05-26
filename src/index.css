@@ -1,0 +1,14 @@
+#root{
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-image: url(https://previews.123rf.com/images/summertimeau/summertimeau1702/summertimeau170200354/72088778-seamless-patr%C3%B3n-pel%C3%ADculas-symbols-cinema-background-vector.jpg);
+}
+
+.paginaPrincipal{
+  flex-grow: 1;
+}
+
+.Area{
+  resize: none;
+}
